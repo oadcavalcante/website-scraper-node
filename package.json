@@ -1,6 +1,7 @@
 {
   "name": "website-scraper-node",
   "version": "1.0.0",
+  "type": "module",
   "description": "Ferramenta que coleta e extrai dados automaticamente de páginas da web. Ele acessa um site, lê o conteúdo da página (como HTML). e extrai informações específicas, como textos, imagens, links, ou outros dados estruturados e não estruturados.",
   "main": "index.js",
   "scripts": {
